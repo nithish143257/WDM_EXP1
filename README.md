@@ -59,7 +59,7 @@ Training Data Set -> Employee Table
 
 Training Data Set-> Weather Table
 
-<img width="284" alt="Screenshot 2024-02-10 085221" src="https://github.com/Nagadurg/WDM_EXP1/assets/94185707/40f67cd7-7452-404d-b78d-1bbe67320b32">
+![image](https://github.com/nithish143257/WDM_EXP1/assets/113762839/846212c7-8461-4c73-8614-f919c5ffa241)
 
 ### PREPROCESSING
 ### Procedure:
