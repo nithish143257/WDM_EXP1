@@ -83,12 +83,11 @@ Training Data Set-> Weather Table
 
 Employee Table after adding new attribute ADDRESS:
 
-<img width="325" alt="Screenshot 2024-02-10 092027" src="https://github.com/Nagadurg/WDM_EXP1/assets/94185707/728a86d9-8cf8-4538-b040-610c085728b6">
+![image](https://github.com/nithish143257/WDM_EXP1/assets/113762839/d34636d3-e509-4b7e-add0-668223f5b945)
 
 Weather Table after adding new attribute CLIMATE:
 
-
-<img width="334" alt="wd 1(c) add" src="https://github.com/Nagadurg/WDM_EXP1/assets/94185707/da9e8c12-5ccb-4a37-b1a6-d095714c7a4a">
+![image](https://github.com/nithish143257/WDM_EXP1/assets/113762839/cfbb8b88-fdb0-4a99-bfcc-56e0dbd51dcd)
 
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -108,13 +107,11 @@ Weather Table after adding new attribute CLIMATE:
 ### OUTPUT:
 Employee Table after removing attributes SALARY, GENDER:
 
-
-<img width="253" alt="Screenshot 2024-02-10 092224" src="https://github.com/Nagadurg/WDM_EXP1/assets/94185707/2926a58d-218e-4fa2-a736-49e120f6b27c">
+![image](https://github.com/nithish143257/WDM_EXP1/assets/113762839/94e0e00a-03e0-4b12-9198-9d548651e1bd)
 
 Weather Table after removing attributes WINDY, PLAY:
 
-
-<img width="212" alt="wd 1(c) remove" src="https://github.com/Nagadurg/WDM_EXP1/assets/94185707/c8319007-4424-4f54-8839-7f6019cab037">
+![image](https://github.com/nithish143257/WDM_EXP1/assets/113762839/5cb55dff-04dc-4cf2-bbe7-a756d0b1d039)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -134,12 +131,12 @@ Weather Table after removing attributes WINDY, PLAY:
 ### OUTPUT:
 Employee Table after Normalizing ID, EXP, PHONE:
 
-<img width="310" alt="Screenshot 2024-02-10 092350" src="https://github.com/Nagadurg/WDM_EXP1/assets/94185707/2ca75794-e116-4fc0-822a-2b54ddfea301">
+![image](https://github.com/nithish143257/WDM_EXP1/assets/113762839/883a8d05-a9a8-4e63-9ed3-07655752c5ff)
 
 Weather Table after Normalizing TEMPARATURE, HUMIDITY:
 
+![image](https://github.com/nithish143257/WDM_EXP1/assets/113762839/bbea2b90-34a0-4aa3-82cf-6793286e9ab0)
 
-<img width="308" alt="wd 1(c) normalize" src="https://github.com/Nagadurg/WDM_EXP1/assets/94185707/286209ed-e3d2-4eb6-b272-b25a3dc85468">
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
